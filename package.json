@@ -1,5 +1,10 @@
 {
   "name":"hexToRgb",
   "version":"0.0.1",
-  "main":"hexToRgb"
+  "main":"hexToRgb",
+  "repository":{
+  	"type":"git",
+  	"url":"https://github.com/bluelifeleer/npm_module_hexToRgb.git"
+  },
+  "keywords":["hexToRgb"]
 }
