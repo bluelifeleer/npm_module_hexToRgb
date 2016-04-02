@@ -1,10 +1,18 @@
 {
-  "name":"hexToRgb",
-  "version":"0.0.1",
-  "main":"hexToRgb",
-  "repository":{
+  "author":"bulelife",//包作者
+  "name":"hexToRgb",//包名称
+  "version":"0.0.1",//版本
+  "description":"test",//包描述
+  "main":"hexToRgb",//应用程序的主入口
+  "preferGlobal":true,//包应用的安装方式,true全局安装
+  "contributors":"",//包模块的其他作者
+  "bin":"",//随项目安装的二进制文件
+  "scripts":"",//启动node时执行控制台应用程序的参数
+  "repository":{//存储库类型和包位置
   	"type":"git",
   	"url":"https://github.com/bluelifeleer/npm_module_hexToRgb.git"
   },
-  "keywords":["hexToRgb"]
+  "keywords":["hexToRgb"],//搜索关键字
+  "dependencies":"",//此模块依赖的模块和版本
+  "engines":""//此包使用的Node版本
 }
